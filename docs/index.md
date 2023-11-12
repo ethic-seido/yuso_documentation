@@ -37,3 +37,15 @@ __ES/YUSO__ is here to support you in your travels with your electric vehicle on
 Feel free to contact us if you have any questions or comments. 
 
 Happy electric mobility! ⚡
+
+## **Redirecting the charging station to google maps**
+
+With __ES/YUSO__ you can redirect a found charging station to Google Maps to easily create a route.
+
+To do this, you must click on the desired station on the __ES/YUSO__ map then click on **Send to Google Map App** :
+
+[![searchsample](assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/YusoV2)
+
+## **Use voice search**
+
+To use voice search, simply click on the microphone icon [![voicesearchsample](assets/MCwA098x96.png)](https://ethicseido.com/Yuso/YusoV2) in the ES/YUSO card search bar. (If necessary, allow access to your microphone) Then Speak, you will see what you just said written in the search bar

@@ -34,7 +34,7 @@ theme:
   name: material
   language: en
   font:
-    text: Poppins
+    text: Jost
 extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2020 - 2023 <a href="https://ethicseido.com"  target="_blank" rel="noopener">ETHIC SEIDO</a>

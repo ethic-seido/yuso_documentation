@@ -4,7 +4,7 @@ icon: simple/readthedocs
 ---
 # Welcome to ES/YUSO: Your online very fast electric charging stations search service
 
-[![image](https://img.shields.io/badge/version-2.0.2-blue)](changelog.md)
+[![image](https://img.shields.io/badge/version-2.2-blue)](changelog.md)
 [![image](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 
 [![logo](assets/background_es-yuso-logo-v1.png)](https://ethicseido.com/Yuso/YusoV2)

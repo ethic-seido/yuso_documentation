@@ -6,6 +6,9 @@ description: displaying service update information
 
 ## **ES/YUSO Changelog**
 
+### 2.3 <small>December 28, 2023</small>
+- Changed the size of the scroll bars for better visibility
+
 ### 2.2 <small>November 10, 2023</small>
 - Added suggestion feature for charging location search
 

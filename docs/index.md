@@ -25,7 +25,7 @@ Our service is designed:
 In your favorite internet browser (chrome, brave, edge, firefox...), use the following link to access __ES/YUSO__ :
 
 ```
-https://ethicseido.com/Yuso/YusoV2
+https://ethicseido.com/Yuso/Yuso
 ```
 
 ## **Getting Started**

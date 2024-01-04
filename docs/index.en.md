@@ -7,7 +7,7 @@ icon: simple/readthedocs
 [![image](https://img.shields.io/badge/version-2.3-blue)](changelog.md)
 [![image](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 
-[![logo](assets/background_es-yuso-logo-v1.png)](https://ethicseido.com/Yuso/YusoV2)
+[![logo](assets/background_es-yuso-logo-v1.png)](https://ethicseido.com/Yuso/Yuso)
 
 
 ## **Introduction**
@@ -44,8 +44,8 @@ With __ES/YUSO__ you can redirect a found charging station to Google Maps to eas
 
 To do this, you must click on the desired station on the __ES/YUSO__ map then click on **Send to Google Map App** :
 
-[![searchsample](assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/YusoV2)
+[![searchsample](assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/Yuso)
 
 ## **Use voice search**
 
-To use voice search, simply click on the microphone icon [![voicesearchsample](assets/MCwA098x96.png)](https://ethicseido.com/Yuso/YusoV2) in the ES/YUSO card search bar. (If necessary, allow access to your microphone) Then Speak, you will see what you just said written in the search bar
+To use voice search, simply click on the microphone icon [![voicesearchsample](assets/MCwA098x96.png)](https://ethicseido.com/Yuso/Yuso) in the ES/YUSO card search bar. (If necessary, allow access to your microphone) Then Speak, you will see what you just said written in the search bar

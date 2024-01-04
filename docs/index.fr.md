@@ -7,7 +7,7 @@ icon: simple/readthedocs
 [![image](https://img.shields.io/badge/version-2.3-blue)](changelog.md)
 [![image](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 
-[![logo](assets/background_es-yuso-logo-v1.png)](https://ethicseido.com/Yuso/YusoV2)
+[![logo](assets/background_es-yuso-logo-v1.png)](https://ethicseido.com/Yuso/Yuso)
 
 ## **Introduction**
 
@@ -45,8 +45,8 @@ Avec __ES/YUSO__, vous pouvez rediriger une station de recharge trouvée vers Go
 
 Pour ce faire, vous devez cliquer sur la station désirée sur la carte de __ES/YUSO__, puis cliquer sur **Envoyer vers l'application Google Maps** :
 
-[![searchsample](assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/YusoV2)
+[![searchsample](assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/Yuso)
 
 ## **Utiliser la recherche vocale**
 
-Pour utiliser la recherche vocale, cliquez simplement sur l'icône du microphone [![voicesearchsample](assets/MCwA098x96.png)](https://ethicseido.com/Yuso/YusoV2) dans la barre de recherche de la carte __ES/YUSO__. (Si nécessaire, autorisez l'accès à votre microphone) Ensuite, parlez, vous verrez ce que vous venez de dire écrit dans la barre de recherche.
+Pour utiliser la recherche vocale, cliquez simplement sur l'icône du microphone [![voicesearchsample](assets/MCwA098x96.png)](https://ethicseido.com/Yuso/Yuso) dans la barre de recherche de la carte __ES/YUSO__. (Si nécessaire, autorisez l'accès à votre microphone) Ensuite, parlez, vous verrez ce que vous venez de dire écrit dans la barre de recherche.

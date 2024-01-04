@@ -37,7 +37,7 @@ theme:
     text: Jost
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2020 - 2023 <a href="https://ethicseido.com"  target="_blank" rel="noopener">ETHIC SEIDO</a>
+copyright: Copyright &copy; 2020 - 2024 <a href="https://ethicseido.com"  target="_blank" rel="noopener">ETHIC SEIDO</a>
 
 extra:
   feedback:

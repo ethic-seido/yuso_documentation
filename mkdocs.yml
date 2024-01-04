@@ -6,7 +6,7 @@ nav:
   - ChangeLog: "changelog.md"
 theme:
   features:
-      - navigation.instant
+      # - navigation.instant
       - navigation.tracking
       - navigation.top
       - search.highlight
@@ -75,5 +75,15 @@ markdown_extensions:
 plugins:
   - social
   - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
 
 

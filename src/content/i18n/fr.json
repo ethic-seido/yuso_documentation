@@ -1,0 +1,7 @@
+{
+  "search.label": "Rechercher",
+  "search.cancelLabel": "Annuler",
+  "search.clearLabel": "Effacer",
+  "search.placeholder": "Rechercher dans la documentation",
+  "search.devWarning": "La recherche est disponible après une construction de production."
+}

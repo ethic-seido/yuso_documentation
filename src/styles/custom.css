@@ -1,0 +1,50 @@
+:root {
+  --sl-color-accent-low: #dfe8ed;
+  --sl-color-accent: #1f4d64;
+  --sl-color-accent-high: #0f2938;
+  --sl-color-text-accent: #1f4d64;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #173646;
+  --sl-color-accent: #7db7d0;
+  --sl-color-accent-high: #d2ecf7;
+  --sl-color-text-accent: #7db7d0;
+}
+
+.sl-markdown-content img { border-radius: 0.5rem; }
+
+.site-title img {
+  content: url('/assets/esyuso-logo-dark.png');
+  height: 2.35rem;
+  max-width: 10.5rem;
+}
+
+.sl-markdown-content .brand-logo {
+  display: block;
+  margin-block: 1.5rem;
+}
+
+.sl-markdown-content .brand-logo img {
+  display: block;
+  margin: 0;
+  max-width: 100%;
+  content: url('/assets/esyuso-logo-dark.png');
+}
+
+:root:not([data-theme='dark']) .site-title img,
+:root:not([data-theme='dark']) .sl-markdown-content .brand-logo img {
+  content: url('/assets/esyuso-logo-light.png');
+}
+
+.sl-markdown-content .badges {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.sl-markdown-content .badges img {
+  display: block;
+  margin: 0;
+}

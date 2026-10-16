@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+const canonicalUrl = process.env.READTHEDOCS_CANONICAL_URL;
+
 export default defineConfig({
-  site: 'https://yuso-documentation.readthedocs.io',
+  site: canonicalUrl || 'http://localhost:4321',
+  base: canonicalUrl ? new URL(canonicalUrl).pathname : '/',
   publicDir: './docs',
   integrations: [
     starlight({

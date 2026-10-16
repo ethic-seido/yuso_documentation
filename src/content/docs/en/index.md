@@ -9,7 +9,7 @@ description: Get started with the ES/YUSO fast electric charging station search 
 </div>
 
 <a class="brand-logo" href="https://ethicseido.com/Yuso/Yuso" aria-label="Open ES/YUSO">
-  <img src="/assets/background_es-yuso-logo-v1.png" alt="ES/YUSO logo" />
+  <img src="../assets/background_es-yuso-logo-v1.png" alt="ES/YUSO logo" />
 </a>
 
 ## Introduction
@@ -38,8 +38,10 @@ Happy electric mobility! ⚡
 
 To create a route in Google Maps, select a station on the ES/YUSO map, then choose **Send to Google Map App**.
 
-[![ES/YUSO search example](/assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/Yuso)
+<a href="https://ethicseido.com/Yuso/Yuso">
+  <img src="../assets/YRAJF6td5W.png" alt="ES/YUSO search example" />
+</a>
 
 ## Use voice search
 
-Select the microphone icon [![Voice search icon](/assets/MCwA098x96.png)](https://ethicseido.com/Yuso/Yuso) in the ES/YUSO search bar. Grant microphone access if prompted, then speak: your words will appear in the search field.
+Select the microphone icon <a href="https://ethicseido.com/Yuso/Yuso"><img src="../assets/MCwA098x96.png" alt="Voice search icon" /></a> in the ES/YUSO search bar. Grant microphone access if prompted, then speak: your words will appear in the search field.

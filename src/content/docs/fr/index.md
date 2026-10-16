@@ -9,7 +9,7 @@ description: Commencez à utiliser le service de recherche de stations de rechar
 </div>
 
 <a class="brand-logo" href="https://ethicseido.com/Yuso/Yuso" aria-label="Ouvrir ES/YUSO">
-  <img src="/assets/background_es-yuso-logo-v1.png" alt="Logo ES/YUSO" />
+  <img src="../assets/background_es-yuso-logo-v1.png" alt="Logo ES/YUSO" />
 </a>
 
 ## Introduction
@@ -38,8 +38,10 @@ Bonne mobilité électrique ! ⚡
 
 Pour créer un itinéraire dans Google Maps, sélectionnez une station sur la carte ES/YUSO, puis choisissez **Envoyer vers l’application Google Maps**.
 
-[![Exemple de recherche ES/YUSO](/assets/YRAJF6td5W.png)](https://ethicseido.com/Yuso/Yuso)
+<a href="https://ethicseido.com/Yuso/Yuso">
+  <img src="../assets/YRAJF6td5W.png" alt="Exemple de recherche ES/YUSO" />
+</a>
 
 ## Utiliser la recherche vocale
 
-Sélectionnez l’icône de microphone [![Icône de recherche vocale](/assets/MCwA098x96.png)](https://ethicseido.com/Yuso/Yuso) dans la barre de recherche ES/YUSO. Autorisez l’accès au microphone si nécessaire, puis parlez : vos paroles s’afficheront dans le champ de recherche.
+Sélectionnez l’icône de microphone <a href="https://ethicseido.com/Yuso/Yuso"><img src="../assets/MCwA098x96.png" alt="Icône de recherche vocale" /></a> dans la barre de recherche ES/YUSO. Autorisez l’accès au microphone si nécessaire, puis parlez : vos paroles s’afficheront dans le champ de recherche.
